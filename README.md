@@ -39,5 +39,6 @@ LibraryManagementSystem/
 └── README.md
 
 ## ⚙️ Setup Instructions
-1️⃣ Clone the Repository  
+1️⃣ Clone this Repository  
+https://github.com/Himanshu202002/library-management-system
 
